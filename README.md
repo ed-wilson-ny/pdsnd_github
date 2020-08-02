@@ -1,15 +1,17 @@
 ### Date created
-Include the date you created this project and README file.
+Weekend of 8/1/2020 and 8/2/2020.
 
 ### Project Title
-Replace the Project Title
+PDSND_GITHUB
 
 ### Description
-Describe what your project is about and what it does
+This project examines and analizes BikeShare data from various cities.
 
 ### Files used
-Include the files used
+3 city files were used by bikeshare.py
+washington.csv
+new_your_city.csv
+chicago.csv 
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
